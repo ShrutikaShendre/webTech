@@ -1,0 +1,66 @@
+body{
+    background-color: rgba(0, 162, 255, 0.966);
+}
+.container{
+   
+    display: flex;
+    margin: 100px 100px 100px 300px;
+    border-radius: 2px;
+   
+}
+.box1{
+    color: white;
+    padding: 20px 20px 20px 30px;
+    background-color: rgba(17, 32, 75, 0.836);
+    height: 562px;
+    width: 370px;
+    
+}
+.box11,.box12{
+    justify-content: center;
+    padding: 10px;
+}
+input[type=button]
+{
+    
+    justify-content: center;
+    width: 45%;
+    height: 39px;
+    background-color: white;
+    color: black;
+    
+}
+input[type=submit]
+{
+    
+    justify-content: center;
+    width: 45%;
+    height: 39px;
+    background-color: rgba(17, 32, 75, 0.836);
+    color: white;
+    
+}
+input[type=email]
+{
+    width: 80%;
+    margin: 10px 0px 0px 0px;
+}
+
+.box2{
+    padding: 20px 20px 20px 30px;
+    background-color:white;
+    height: 562px;
+    width: 380px;
+  
+}
+ .box24, .box25,  .box30, .box31{
+    display: inline-block;
+    padding: 10px 10px 10px 0px;
+}
+.box32{
+    margin: 10px;
+}
+/* #l1{
+    
+} */
+

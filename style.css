@@ -1,0 +1,262 @@
+
+.container
+{
+    height:555px; width: 70%;
+  background-color: #020926;
+  background-image: linear-gradient(43deg, #030a24 0%, #172777 46%, #020926 100%);
+  ;
+  margin: auto;
+  box-shadow: 0px 0px 20px 5px  black;
+ 
+   
+}
+.box1
+{
+    display: inline-block;
+    justify-content: space-evenly;
+    display: flex;
+    margin: auto;
+    margin-top: 100px;
+    height: 56px;width: 60%;
+    
+
+}
+.home
+{
+    display: inline-block;
+
+    padding: 10px;
+    font-size: 25px;
+    justify-content: space-between;
+    margin-top: 20px;
+    color: white;
+
+}
+.blog
+{
+    display: inline-block;
+
+    padding: 10px;
+    font-size: 25px;
+    justify-content: space-evenly;
+    margin-top: 20px;
+    color: white;
+
+}
+.about
+{
+    display: inline-block;
+   
+    padding: 10px;
+    font-size: 25px;
+    justify-content: space-evenly;
+    margin-top: 20px;
+    color: white;
+
+}
+.contact
+{
+    display: inline-block;
+  
+    padding: 10px;
+    font-size: 25px;
+    justify-content: space-evenly;
+    margin-top: 20px;
+    color: rgb(156, 30, 93);
+
+}
+.container2
+{
+    display: flex;
+    margin-top: 40px;
+    
+}
+
+.box2
+{
+    /* display: flex; */
+height: 450px; width: 500px;
+
+margin: auto;
+
+
+}
+
+.box3
+{
+height: 450px; width: 500px;
+
+margin: auto;
+}
+
+.hello
+{ 
+    display: inline-block;
+    color:rgb(122, 26, 74);
+    font-size: 30px;
+    height: 30px; width: 450px;
+    margin-left: 20px;
+    padding: 10px;
+}
+
+.let
+{
+  height: 22px;
+  color: white;
+  margin-left: 20px;
+  padding: 10px;
+}
+.name
+{
+    display: flex;
+    padding: 10px;  
+}
+.fname
+{
+    display: inline-block;
+    margin: auto;
+    border-radius: 10px;
+    background-color: transparent;
+
+}
+    
+
+.lname
+{
+    display: inline-block;
+    margin: auto;
+    border-radius: 10px;
+    background-color: transparent;
+}
+
+.mail
+{
+    padding: 10px;
+    display: flex;
+
+}
+.email
+{
+    display: inline-block;
+    margin: auto;
+    border-radius: 10px;
+    background-color: transparent;
+  
+}
+.phone
+{
+    display: inline-block;
+    margin: auto;
+    border-radius: 10px;
+    background-color: transparent;
+
+}
+#em,#ph,#fn,#ln
+{
+    border-radius: 10px;
+    background-color: transparent;
+    height:35px; 
+    color: white;
+}
+#msg
+{
+   
+    height: 150px;width: 450px;
+    margin-left: 20px;
+    border-radius: 10px;
+    background-color: transparent;
+    color: white;
+}
+#submit
+{
+    background-color: rgb(133, 34, 83);
+    height: 30px;width: 100px;
+    border-radius: 5px;
+    margin-left: 20px;
+}
+
+
+
+/* 3rd box */
+#p1{
+    color: white;
+    height: 60px; ;width: 40%;
+    font-size: 20px;
+}
+#p2
+{
+    color: white;
+    height: 60px; ;width: 50%;
+    font-size: 20px;    
+}
+
+#t1
+{
+    color: white;
+    height: 60px; ;width: 60%;
+    font-size: 20px;    
+}
+.follow
+{
+    font-size: 30px;
+    color: rgb(131, 30, 80);
+}
+.ss
+{
+    color: white;
+    font-size: 22px;
+}
+
+
+
+
+/* 
+.name
+{
+    display: flex;
+    padding: 10px;
+   
+}
+.fname
+{
+    display: inline-block;
+    margin: auto;
+    background-color: transparent;
+
+}
+
+    
+}
+.lname
+{
+    display: inline-block;
+    margin: auto;
+}
+.mail
+{
+    padding: 10px;
+    display: flex;
+
+}
+.email
+{
+    display: inline-block;
+    margin: auto;
+  
+}
+.phone
+{
+    display: inline-block;
+    margin: auto;
+
+}
+.msg
+{
+    border: 2px solid white;
+    height: 100px;width: 300px;
+}
+#msg
+{
+    background-color: transparent;
+    border: 2px solid white;
+} */
